@@ -1,0 +1,14 @@
+{
+  "name": "javascript-knowledge-database",
+  "version": "1.0.0",
+  "description": "A collection of functions, algorithms and tips",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mozartdiniz/javascript-knowledge-database.git"
+  },
+  "author": "Mozart Diniz <mozart.diniz@gmail.com>",
+  "license": "ISC"
+}
