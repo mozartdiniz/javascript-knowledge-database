@@ -11,7 +11,6 @@ const myArray = [
 ];
 
 const isArray = array => array.constructor === Array;
-const concat = a => b => a.concat(b);
 
 const withReducerAndRecursion = array =>
   array.reduce(
