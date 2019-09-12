@@ -3,6 +3,7 @@ const pascalTriangle = (numRows) => {
 
     for (let i = 0; i < numRows; i++) {
         const rowSize = i + 1;
+
         triangle[i] = new Array(rowSize);
 
         for(let j = 0; j < rowSize; j++) {
